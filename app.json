@@ -1,6 +1,5 @@
 {
   "name": "Zoom Meeting SDK Auth Endpoint sample",
-  "keywords": ["zoom", "meetingsdk", "jwt", "node.js", "express"],
   "env": {
     "ZOOM_MEETING_SDK_KEY": {
       "description": "Your Zoom Meeting SDK Key or Client ID for Meeting SDK app type's created after February 11, 2023, found on your Zoom Meeting SDK app's credentials page",
